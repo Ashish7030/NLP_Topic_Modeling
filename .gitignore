@@ -220,3 +220,9 @@ __marimo__/
 # Project-specific
 data/
 .DS_Store
+
+# Large intermediate embeddings
+results/bert_token/token_embeddings.npy
+results/bert_token_final/token_embeddings_raw.npy
+results/bert_token_final/token_embeddings_100d.npy
+results/bert_token_filtered/token_embeddings.npy
