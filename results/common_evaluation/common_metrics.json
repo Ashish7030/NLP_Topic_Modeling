@@ -1,0 +1,38 @@
+[
+    {
+        "method": "LDA",
+        "n_topics": 20,
+        "n_words_per_topic": 15,
+        "coherence_cv": 0.4274316911787099,
+        "topic_diversity": 0.7733333333333333,
+        "topic_exclusivity": 0.7733333333333333,
+        "mean_topic_overlap_jaccard": 0.02433382306340564
+    },
+    {
+        "method": "NMF",
+        "n_topics": 20,
+        "n_words_per_topic": 15,
+        "coherence_cv": 0.6291740719878708,
+        "topic_diversity": 0.8766666666666667,
+        "topic_exclusivity": 0.8766666666666667,
+        "mean_topic_overlap_jaccard": 0.007717281710022182
+    },
+    {
+        "method": "BERT Document",
+        "n_topics": 20,
+        "n_words_per_topic": 15,
+        "coherence_cv": 0.5245517830579942,
+        "topic_diversity": 0.8,
+        "topic_exclusivity": 0.7999999999999999,
+        "mean_topic_overlap_jaccard": 0.015450407628266069
+    },
+    {
+        "method": "BERT Token",
+        "n_topics": 20,
+        "n_words_per_topic": 15,
+        "coherence_cv": 0.47014007914909817,
+        "topic_diversity": 0.9866666666666667,
+        "topic_exclusivity": 0.9866666666666667,
+        "mean_topic_overlap_jaccard": 0.0007389162561576354
+    }
+]

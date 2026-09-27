@@ -1,0 +1,21 @@
+{
+    "model": "bert-base-uncased",
+    "method": "token_level_content_word_clustering",
+    "n_documents": 1000,
+    "n_tokens": 94134,
+    "n_topics": 20,
+    "n_top_words": 15,
+    "embedding_dimension": 768,
+    "embedding_time_seconds": 51.346696853637695,
+    "clustering_time_seconds": 28.08330011367798,
+    "total_model_time_seconds": 79.42999696731567,
+    "coherence_cv": 0.447249661695313,
+    "topic_diversity": 0.8833333333333333,
+    "topic_exclusivity": 0.8033333333333333,
+    "max_length": 256,
+    "batch_size": 8,
+    "max_tokens": 100000,
+    "random_state": 42,
+    "stopword_filtering": true,
+    "subword_filtering": true
+}

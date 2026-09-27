@@ -1,0 +1,5 @@
+Method,Topics,WordsPerTopic,CoherenceCV,Diversity,Exclusivity,MeanTopicOverlap
+LDA,20,15,0.4274,0.7733,0.7733,0.0243
+NMF,20,15,0.6292,0.8767,0.8767,0.0077
+BERT Document,20,15,0.5246,0.8000,0.8000,0.0155
+BERT Token,20,15,0.4701,0.9867,0.9867,0.0007

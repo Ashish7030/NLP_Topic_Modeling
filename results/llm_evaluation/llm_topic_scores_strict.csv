@@ -1,0 +1,81 @@
+method,topic_id,topic_label,coherence,interpretability,specificity,overall,problematic_words,brief_reason
+LDA,0,Military Operations,5,5,5,5,,"All words clearly relate to military operations, including French involvement, structures, areas, and battles."
+LDA,1,Audio Visual Content,5,5,5,5,,"All words clearly relate to audio visual content, including 'voice', 'audio', 'video', 'set', 'said', 'like', 'game', 'released'."
+LDA,2,Music Releases,5,5,5,5,,"All words clearly relate to music releases, including year-specific information."
+LDA,3,Book Series,5,5,5,5,,"All words clearly belong to the topic of book series, including authors, publishers, and genres."
+LDA,4,Geographical Route System,5,5,5,5,,"All words clearly relate to geographical routes within a defined region (state, city, etc.)."
+LDA,5,Historical Figures and Events,5,5,5,5,,"All words clearly relate to historical figures and events, forming a coherent and specific topic."
+LDA,6,Education and Society,5,5,5,5,"public, american, law, college, william","The words 'school', 'university', 'home', 'children', 'education', and 'family' form a coherent educational context, including both formal institutions (like universities) and personal experiences within families and communities. The inclusion of 'American' suggests an international perspective on education systems, which is relevant for understanding global trends in education. However, the presence of 'public', 'national', and 'century' introduces elements of societal structures and historical contexts, making the topic more complex than strictly focused on individual educational experiences."
+LDA,7,Development and Temples,1,1,1,1,"new, main, king","The words include elements from both development (km, plymouth) and temples (temple), mixing unrelated topics without strong cohesion."
+LDA,8,Music and Beyoncé,5,5,5,5,,All words clearly relate to music and specifically to Beyoncé's works.
+LDA,9,Romanian King Charles Carey,1,1,1,1,"number, drive","The topic contains unrelated words like 'number' and 'drive', which do not form a coherent semantic group."
+LDA,10,Color and Election,1,1,1,1,"white, black","The topic includes color terms (white, black) and an election term (exit), but lacks coherent content beyond these elements."
+LDA,11,Military Operations on the Island of Sicily,1,1,1,1,"000, august, areas, war, october, line, island, area, station, soviet, early, land, coast, july",The topic includes various military-related terms without forming a coherent and specific theme.
+LDA,12,Florida Tropical Storms,5,5,5,5,,"All words clearly relate to Florida's tropical storms, making it a coherent and specific topic."
+LDA,13,Football Team Performance,5,5,5,5,,"All words clearly relate to football team performance, including specific aspects like seasons, games, championships, and winning teams."
+LDA,14,Film Industry,5,5,5,5,,"All words clearly relate to the film industry, including actors, characters, grants, stations (as in cinema), and time periods."
+LDA,15,Biology and Ecology,5,5,5,5,,All words clearly relate to biological taxonomy and ecology.
+LDA,16,War and Women in Film,5,5,5,5,,"All words clearly relate to a specific topic involving war, women, and films."
+LDA,17,Television Series,5,5,5,5,,"All words clearly relate to television series, including 'best', 'said', 'role', 'character', 'cast'."
+LDA,18,British Naval Operations,5,5,5,5,,All words clearly relate to British naval operations during specific months.
+LDA,19,International Sports Events,5,5,5,5,,"All words clearly relate to international sports events, including flags, states, races, medals, and more."
+NMF,0,Chinese Government Election Law,1,1,1,1,"government, state, chinese, court, election, political, party, people, president, law, council, national",All words are generic and do not form a coherent topic.
+NMF,1,Musical Group and Music Style,5,5,5,5,,All words clearly relate to musical groups and their activities within the context of music.
+NMF,2,Sports and Football,5,5,5,5,,"All words clearly relate to sports, specifically football and other related leagues and teams."
+NMF,3,Film Industry,5,5,5,5,,"All words clearly relate to the film industry, including technical aspects like 'script' and 'role', and broader topics like 'best'."
+NMF,4,Tropical Storms and Hurricanes,5,5,5,5,,"All words clearly relate to tropical storms and hurricanes, forming a cohesive and specific topic."
+NMF,5,Road Network Terminology,5,5,5,5,"new, county","The words 'road', 'route', 'terminus', 'village', 'street', 'intersection', 'hamlet', 'north' form a coherent and specific topic about road network terminology."
+NMF,6,Television Series,5,5,5,5,,"All words clearly relate to television series, including 'season', 'episodes', 'cast', and 'role'."
+NMF,7,Military Operations,5,5,5,5,,"All words clearly relate to military operations involving ships, divisions, and forces."
+NMF,8,Video Game Series,5,5,5,5,"000, praised","The words 'game', 'player', 'games', 'playground', 'team', 'video', 'character', 'players', 'graphics', 'star' form a coherent and specific topic about video game series."
+NMF,9,Music Videos,5,5,5,5,,"All words clearly relate to music videos, including performers, genres, and types of content."
+NMF,10,Ship Structure and Measurement,5,5,5,5,"tons, mm","The words 'ft', 'km', 'meters', 'guns', 'ship', 'long', 'ships', 'deck', 'gun', 'structure', 'mounted' form a coherent and specific topic about ship measurements and structures."
+NMF,11,Birds,5,5,5,5,,"All words clearly relate to birds, forming a cohesive and specific topic."
+NMF,12,Historic Sites and Buildings,5,5,5,5,,All words clearly relate to historic sites and buildings.
+NMF,13,Cambridge-Oxford Race,5,5,5,5,,All words clearly relate to Cambridge University races involving horses.
+NMF,14,Education Institutions and Students,5,5,5,5,"born, father","The words 'school', 'university', 'college', 'schools', 'campus', 'education', 'public', 'students', 'attended', 'library', 'year', and 'law' form a coherent and specific topic about educational institutions and their students."
+NMF,15,Road Infrastructure,5,5,5,5,,"All words clearly relate to road infrastructure, including highways, routes, states, roads, counties, bridges, and more."
+NMF,16,Book Series,5,5,5,5,,All words clearly belong to the topic of book series.
+NMF,17,Wrestling Events,5,5,5,5,,"All words clearly relate to wrestling events, including team, championship, match, ball, tournament, event, and more."
+NMF,18,Music Concerts,5,5,5,5,,All words clearly relate to music concerts.
+NMF,19,Music Charts,5,5,5,5,,All words clearly relate to music charts and their performance metrics.
+BERT Document,0,Historic Structures,3,3,3,3,"century, built","While 'building' and 'park' suggest a general construction theme, the inclusion of 'site', 'church', 'castle', and 'road' introduces too much diversity and unrelated elements into the topic."
+BERT Document,1,American Politics and Law,5,5,5,5,"state, new, war, national, government, election, party, american, law, states, united, court, french, president",All words clearly relate to American politics and legal systems.
+BERT Document,2,Film Releases and Works,5,5,5,5,,"All words clearly relate to film releases and works, forming a cohesive and specific topic."
+BERT Document,3,Tropical Storms and Hurricanes,5,5,5,5,,"All words clearly relate to tropical storms and hurricanes, forming a cohesive and specific topic."
+BERT Document,4,Ecological Population Dynamics,5,5,5,5,,"All words clearly relate to ecological population dynamics, forming a cohesive and specific topic."
+BERT Document,5,Mixed Domain Noise,2,2,2,2,"000, ft, year","Numerical noise, lack of clear semantic cohesion, and unrelated concepts (e.g., '000', 'ft', 'year') prevent a strong classification."
+BERT Document,6,Rock Music,5,5,5,5,,"All words clearly relate to rock music, including bands, albums, songs, and artists like Dylan and Beatles."
+BERT Document,7,Military Operations During World War II,5,5,5,5,,"All words clearly relate to military operations during World War II, forming a cohesive and specific topic."
+BERT Document,8,British Family History,1,1,1,1,"born, met, john, morris",The words do not form a coherent and specific topic within British family history.
+BERT Document,9,Sports Team Performance,5,5,5,5,"nfl, draft","The words 'game', 'team', 'league', 'season', 'games', 'giants', 'nhl', 'played', 'cardinals', 'football', 'year', 'defensive', 'coach', 'draft', 'teams' form a coherent and specific sports-related topic."
+BERT Document,10,Ancient Greek Texts,5,5,5,5,,"All words clearly relate to ancient Greek texts, forming a coherent and specific topic."
+BERT Document,11,Road Network,5,5,5,5,,"All words clearly relate to roads within a defined network, including highways, routes, intersections, and termini."
+BERT Document,12,British Naval Warfare,1,1,1,1,"mm, fleet, guns, war","The topic includes irrelevant words like 'mm' and 'fleet', which do not contribute to forming a coherent British naval warfare topic."
+BERT Document,13,Video Games,5,5,5,5,,"All words clearly relate to video games, forming a cohesive and specific topic."
+BERT Document,14,Motor Racing Tour,5,5,5,5,,"All words clearly relate to motor racing events, including teams, drivers, races, and results."
+BERT Document,15,Wrestling Events,5,5,5,5,,"All words clearly relate to wrestling events, including match, championship, defeated, and more."
+BERT Document,16,English Football Club,5,5,5,5,,"All words clearly relate to English football clubs, including their competitions, goals, seasons, and locations."
+BERT Document,17,Music Releases,5,5,5,5,,"All words clearly relate to music releases, including Rihanna's singles, albums, tours, and performances."
+BERT Document,18,English Monarchy,5,5,5,5,,"All words clearly relate to the English monarchy, including key figures like Henry VIII and Richard III."
+BERT Document,19,Television Series,5,5,5,5,,"All words clearly relate to television series, including characters, seasons, and viewing statistics."
+BERT Token,0,Hurricane and Cyclone Events,5,5,5,5,,"All words clearly relate to hurricanes and cyclones, forming a cohesive and specific topic."
+BERT Token,1,United States and India,5,5,5,5,,"All words clearly relate to United States and India, forming a coherent and specific topic."
+BERT Token,2,"Result, Fact, Addition, Point, Soon, Quickly, Sufficiently",1,1,1,1,"greatly, especially","Most words are generic or functionally related, lacking a clear, specific topic."
+BERT Token,3,Football,5,5,5,5,,"All words clearly relate to football, including key elements like players, teams, games, and tactics."
+BERT Token,4,Warfare,5,5,5,5,,All words clearly relate to military conflict and strategy.
+BERT Token,5,Discussion on Statements and Opinions,5,5,5,5,,All words clearly relate to discussions about statements and opinions without mixing unrelated topics.
+BERT Token,6,Action Planning,5,5,5,5,,All words clearly relate to action planning processes and outcomes.
+BERT Token,7,Film Production,5,5,5,5,,All words clearly relate to the concept of filmmaking and production processes.
+BERT Token,8,Unknown,2,2,2,2,"fred, mark, bobby, chris, hal, vincent, robinson, john, andrew, charles, paul, james, rick",The topic contains numerous generic names without forming a coherent semantic group.
+BERT Token,9,Industrial Health Care,5,5,5,5,"medical, murder","The topic includes both industrial aspects (e.g., carriage) and healthcare/medical topics (e.g., hospital), which are distinct enough to warrant separate labeling."
+BERT Token,10,Unknown Topic,2,2,2,2,"star, wars, industry, san, hearts, space, soft, night, white","The topic contains a mix of unrelated concepts (stars, wars, industries, etc.) without forming a coherent semantic group."
+BERT Token,11,Environmental Systems,5,5,5,5,,"All words clearly relate to environmental systems, including habitats, species, and ecosystems."
+BERT Token,12,Narrative Structure,5,5,5,5,,"All words clearly relate to narrative elements such as themes, characters, and plot development."
+BERT Token,13,Significant Characteristics,5,5,5,5,,All words clearly relate to significant characteristics and are cohesive within the topic.
+BERT Token,14,Unrelated Topics,2,2,2,2,"originally, possible, resulted, previously, best, usually, mix, father, eventually, called, instead, earlier, having, result, able","The topic contains unrelated words such as 'originally', 'possible', 'resulted', and 'called' which do not form a coherent semantic group."
+BERT Token,15,Music Production and Distribution,5,5,5,5,,"All words clearly relate to music production, distribution, and performance."
+BERT Token,16,Infrastructure and Urban Spaces,5,5,5,5,,"All words clearly relate to infrastructure and urban spaces, forming a cohesive and specific topic."
+BERT Token,17,Seasons,5,5,5,5,,All words clearly belong to the topic of seasons.
+BERT Token,18,Planning and Implementation,5,5,5,5,,All words clearly relate to planning and implementation processes.
+BERT Token,19,Geographical Area,5,5,5,5,,"All words clearly relate to geographical areas within the United States, including states like Texas (southwest), Florida (southeastern), and Mississippi (central)."

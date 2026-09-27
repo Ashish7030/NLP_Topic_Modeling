@@ -1,0 +1,20 @@
+Topic 1: john, dylan, charles, james, william, michael, richard, peter, edwards, grant, brown, paul, george, lawrence, martin
+Topic 2: of, on, out, among, s, that, dated, from, by, under, at, for, o, over, a
+Topic 3: first, time, on, s, year, up, i, two, later, by, august, september, second, may, at
+Topic 4: and, well, or, as, while, und, n, through, with
+Topic 5: s, his, he, her, their, she, its, they, him, it, himself, them, who, i, our
+Topic 6: war, american, national, city, ship, country, division, british, french, german, government, university, army, king, state
+Topic 7: the, tropical, of, a, storm, hurricane, depression, damage, on, season, cyclone, was, winds, mph, in
+Topic 8: that, of, from, said, reviews, critics, a, described, the, gave, for, review, also, praised, saying
+Topic 9: team, game, season, football, cup, the, league, match, championship, final, goal, race, club, cardinals, ball
+Topic 10: to, into, would, for, back, in, order, at, there, it, before, towards, will
+Topic 11: two, new, four, first, three, a, one, south, from, the, north, second, life, high, all
+Topic 12: album, it, film, s, song, music, its, band, episode, series, release, book, video, released, single
+Topic 13: in, ft, into, mi, that, out, around, on, as, inches, throughout, across, end, with, along
+Topic 14: that, as, which, but, are, have, not, who, this, has, also, or, most, be, such
+Topic 15: had, were, would, used, made, began, won, been, included, became, said, could, received, moved, took
+Topic 16: new, s, st, g, united, ko, k, u, j, sc, ki, po, san, world, a
+Topic 17: a, was, is, an, were, it, as, be, been, one, also, that, are, being, s
+Topic 18: the, it, that, this, s, those, an, at, for
+Topic 19: on, with, for, by, at, from, as, after, during, when, into, between, before, over, under
+Topic 20: men, areas, people, forces, buildings, songs, species, members, metres, lines, ships, books, elements, weeks, groups

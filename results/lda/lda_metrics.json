@@ -1,0 +1,19 @@
+{
+  "experiment": "LDA baseline",
+  "dataset": "WikiText-103",
+  "documents": 1000,
+  "n_topics": 20,
+  "top_words_per_topic": 15,
+  "max_iter": 20,
+  "random_state": 42,
+  "min_df": 5,
+  "max_df": 0.95,
+  "max_features": 20000,
+  "vocabulary_size": 5622,
+  "document_term_matrix_rows": 1000,
+  "document_term_matrix_columns": 5622,
+  "runtime_seconds": 2.1449122919584624,
+  "topic_coherence_cv": 0.42638062983800673,
+  "topic_diversity": 0.7733333333333333,
+  "topic_exclusivity": 0.6399999999999999
+}

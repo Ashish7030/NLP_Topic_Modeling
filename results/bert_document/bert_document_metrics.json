@@ -1,0 +1,16 @@
+{
+    "model": "bert-base-uncased",
+    "n_documents": 1000,
+    "n_topics": 20,
+    "n_top_words": 15,
+    "embedding_dimension": 768,
+    "embedding_time_seconds": 53.571141958236694,
+    "clustering_time_seconds": 0.4284830093383789,
+    "total_model_time_seconds": 53.99962496757507,
+    "coherence_cv": 0.5092900030921205,
+    "topic_diversity": 0.8,
+    "topic_exclusivity": 0.6566666666666666,
+    "max_length": 256,
+    "batch_size": 16,
+    "random_state": 42
+}

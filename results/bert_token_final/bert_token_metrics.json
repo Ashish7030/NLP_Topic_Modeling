@@ -1,0 +1,23 @@
+{
+    "method": "BERT token-level clustering",
+    "model": "bert-base-uncased",
+    "bert_layer": "final",
+    "n_documents": 1000,
+    "n_tokens": 100000,
+    "embedding_dimension": 100,
+    "max_length": 512,
+    "batch_size": 8,
+    "max_tokens": 100000,
+    "min_doc_freq": 5,
+    "max_doc_freq_ratio": 0.25,
+    "pca_components": 100,
+    "n_topics": 20,
+    "n_top_words": 15,
+    "random_state": 42,
+    "coherence_cv": 0.47014007914909817,
+    "topic_diversity": 0.9866666666666667,
+    "topic_exclusivity": 0.9866666666666667,
+    "embedding_time_seconds": 133.350661277771,
+    "clustering_time_seconds": 0.3355538845062256,
+    "total_time_seconds": 163.41056084632874
+}
